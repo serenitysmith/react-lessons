@@ -11,6 +11,9 @@ export default function MainContent() {
                 if I know React</li>
                 <li>Its maintianed by Facebook</li>
                 <li>Powers thousands of apps </li>
+                <li>React Has a Strong Community </li>
+                <li>It is written in JavaScript, not TypeScript. </li>
+                <li>Virtual DOM is Faster Than Real DOM </li>
             </ul>
             <img src={logo} alt="Logo" className="greylogo"></img>
         </div>
