@@ -2,7 +2,7 @@ import React from "react";
 import logo from "./greyyy.png"
 export default function MainContent() {
     return (
-        // div  parent, everything inside children
+        /// div  parent, everything inside children
         <div>
             <h1 className="facts">Fun Facts About React</h1>
             <ul className="orderedli">
